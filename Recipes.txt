@@ -6,6 +6,9 @@ Kheer
 Pasta
 chicken fry
 
+Beans
+Pizza
+
 
 
 
@@ -13,4 +16,8 @@ chicken fry
 thank you :)
 
 
+Done my changes
+
+
 Final Copy
+
